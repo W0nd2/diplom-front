@@ -1,0 +1,23 @@
+.body {
+    padding: 80px;
+}
+.teams {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+}
+.buttons {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.button {
+    padding: 20px 40px;
+    font-size: 24px;
+    font-weight: bold;
+    background: none;
+    border-radius: 25px;
+}

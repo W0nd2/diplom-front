@@ -1,0 +1,10 @@
+.team {
+    width: 100%;
+    padding: 20px 40px;
+    border: 1px black solid;
+    border-radius: 25px;
+}
+.team_name {
+    font-size: 32px;
+    font-weight: bold;
+}

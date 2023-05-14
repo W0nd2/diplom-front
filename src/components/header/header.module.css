@@ -1,0 +1,33 @@
+.body {
+    background: gray;
+}
+.main {
+    margin: 0px 30px;
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+
+}
+.img {
+    width: 50px;
+    height: 50px;
+    background: aliceblue;
+}
+.link {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.login {
+
+}
+.login_link {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
